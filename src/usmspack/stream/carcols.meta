@@ -1504,7 +1504,7 @@
       </sirens>
       </Item>
     <Item> <!-- usms3 -->
-      <id value="44300"/> 
+      <id value="44330"/> 
       <name>usms3</name>
       <timeMultiplier value="1.00000000"/>
       <lightFalloffMax value="125.00000000"/>
