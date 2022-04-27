@@ -1,5 +1,5 @@
 {
-    "name": "Athena 3.0.0",
+    "name": "NewV",
     "host": "0.0.0.0",
     "env": "prod",
     "port": 7788,
@@ -9,8 +9,8 @@
     "announce": false,
     "gamemode": "Roleplay",
     "website": "athenaframework.com",
-    "language": "en",
-    "description": "Standard Production Configuration",
+    "language": "de",
+    "description": "NewV powered by Athena Framework",
     "debug": true,
     "streamingDistance": 400,
     "migrationDistance": 150,
@@ -24,6 +24,7 @@
         "altv_gn_mz_hopital",
         "altv_tplift_hopital",
         "altv-sit",
+        "clothesmenue",
         "bikerclub",
         "doj",
         "flughafen",
@@ -34,6 +35,7 @@
         "seln-mecano",
         "usmspack",
         "mfrpack",
+        "mpdpack",
         "webviews",
         "core"
     ],
