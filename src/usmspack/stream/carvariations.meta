@@ -326,7 +326,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="0" />
-      <sirenSettings value="44300"/>
+      <sirenSettings value="44330"/>
       </Item>
     <Item> <!-- usms4 -->
       <modelName>usms4</modelName>
