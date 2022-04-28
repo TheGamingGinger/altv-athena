@@ -18,6 +18,21 @@
         "js-module"
     ],
     "resources": [
+        "altv_gn_mz_hopital",
+        "altv_tplift_hopital",
+        "altv-sit",
+        "clothesmenue",
+        "bikerclub",
+        "doj",
+        "flughafen",
+        "lscdot",
+        "lsfdrockfordhills",
+        "pillbox",
+        "usmsbase",
+        "seln-mecano",
+        "usmspack",
+        "mfrpack",
+        "mpdpack",
         "webviews",
         "core"
     ],
