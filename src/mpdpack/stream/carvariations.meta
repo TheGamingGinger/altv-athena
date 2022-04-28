@@ -452,7 +452,7 @@
             <Probabilities />
             </plateProbabilities>
             <lightSettings value="1" />
-            <sirenSettings value="10202017" />
+            <sirenSettings value="11202006" />
             </Item>
     <Item> <!-- mpd6 -->
             <modelName>mpd6</modelName>
@@ -972,7 +972,7 @@
                 <Probabilities />
             </plateProbabilities>
             <lightSettings value="1" />
-            <sirenSettings value="112024" />
+            <sirenSettings value="11202004" />
             </Item>
     <Item> <!-- mpd11 -->
             <modelName>mpd11</modelName>
