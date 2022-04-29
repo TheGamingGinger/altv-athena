@@ -5283,7 +5283,7 @@
       </sirens>
       </Item>
     <Item> <!-- usms8 -->
-		  <id value="44800"/> 
+		  <id value="11202010"/> 
 		  <name>usms8</name>
 		  <timeMultiplier value="1.00000000"/>
 		  <lightFalloffMax value="120.00000000"/>
