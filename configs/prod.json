@@ -35,6 +35,7 @@
         "usmspack",
         "mfrpack",
         "mpdpack",
+        "unmpack",
         "webviews",
         "core"
     ],
