@@ -5294,16 +5294,16 @@
 		  <textureName>VehicleLight_sirenlight</textureName>
 		  <sequencerBpm value="600"/>
 		  <leftHeadLight>
-			  <sequencer value="0"/>
+			<sequencer value="0"/>
 		  </leftHeadLight>
 		  <rightHeadLight>
-			  <sequencer value="0"/>
+			<sequencer value="0"/>
 		  </rightHeadLight>
 		  <leftTailLight>
-			  <sequencer value="2694881440"/>
+			<sequencer value="2694881440"/>
 		  </leftTailLight>
 		  <rightTailLight>
-			  <sequencer value="168430090"/>
+			<sequencer value="168430090"/>
 		  </rightTailLight>
 		  <leftHeadLightMultiples value="1"/>
 		  <rightHeadLightMultiples value="1"/>
@@ -6030,8 +6030,8 @@
 			  <light value="true"/>
 			  <spotLight value="true"/>
 			  <castShadows value="false"/>
-			</Item>
-		  </sirens>
+			  </Item>
+		  	</sirens>
 			</Item>
     <Item> <!-- usms9 -->
       <id value="44900"/>

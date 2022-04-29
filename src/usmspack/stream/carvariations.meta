@@ -621,8 +621,8 @@
       <colors>
         <Item>
           <indices content="char_array">
-            134
-            134
+            0
+            0
             156
             156
           </indices>
@@ -639,8 +639,8 @@
         </Item>
         <Item>
           <indices content="char_array">
-            134
-            134
+            0
+            0
             156
             156
           </indices>
@@ -657,8 +657,8 @@
         </Item>
         <Item>
           <indices content="char_array">
-            134
-            134
+            0
+            0
             156
             156
           </indices>
@@ -675,8 +675,8 @@
         </Item>
         <Item>
           <indices content="char_array">
-            134
-            134
+            0
+            0
             156
             156
           </indices>
@@ -693,8 +693,8 @@
         </Item>
         <Item>
           <indices content="char_array">
-            134
-            134
+            0
+            0
             156
             156
           </indices>
@@ -711,11 +711,16 @@
         </Item>
       </colors>
       <kits>
-        <Item>157_massacaro2_modkit</Item>
+        <Item>0_default_modkit</Item>
       </kits>
       <windowsWithExposedEdges />
       <plateProbabilities>
-        <Probabilities />
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
       </plateProbabilities>
       <lightSettings value="1" />
       <sirenSettings value="44800" />
