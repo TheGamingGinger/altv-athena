@@ -504,10 +504,10 @@
       </firstPersonDrivebyData>
       </Item>
     <Item> <!-- 2018 Ford Taurus -->
-      <modelName>mdp5</modelName>
-      <txdName>mdp5</txdName>
-      <handlingId>mdp5</handlingId>
-      <gameName>mdp5</gameName>
+      <modelName>mpd5</modelName>
+      <txdName>mpd5</txdName>
+      <handlingId>mpd5</handlingId>
+      <gameName>mpd5</gameName>
       <vehicleMakeName />
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -515,7 +515,7 @@
       <animConvRoofName>null</animConvRoofName>
       <animConvRoofWindowsAffected />
       <ptfxAssetName>null</ptfxAssetName>
-      <audioNameHash>police3</audioNameHash>
+      <audioNameHash>SCHAFTER3</audioNameHash>
       <layout>LAYOUT_STANDARD</layout>
       <coverBoundOffsets>SHERIFF_COVER_OFFSET_INFO</coverBoundOffsets>
       <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
