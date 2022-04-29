@@ -4,7 +4,7 @@
 	<residentAnims />
 	<InitDatas>
 	
-    <Item> <!-- Dodge Charger 2009 -->
+    <Item> <!-- 2009 Dodge Charger -->
       <modelName>mpd1</modelName>
       <txdName>mpd1</txdName>
       <handlingId>SCHAFTER3</handlingId>
@@ -128,7 +128,7 @@
         <Item>STD_POLICE_REAR_RIGHT</Item>
       </firstPersonDrivebyData>
       </Item>
-    <Item> <!-- Dodge Charger 2014 -->
+    <Item> <!-- 2014 Dodge Charger -->
       <modelName>mpd2</modelName>
       <txdName>mpd2</txdName>
       <handlingId>SCHAFTER3</handlingId>
@@ -252,7 +252,7 @@
         <Item>STD_POLICE_REAR_RIGHT</Item>
       </firstPersonDrivebyData>
       </Item>
-    <Item> <!-- Dodge Charger 2018 -->
+    <Item> <!-- 2018 Dodge Charger -->
       <modelName>mpd3</modelName>
       <txdName>mpd3</txdName>
       <handlingId>POLICE2</handlingId>
@@ -503,11 +503,11 @@
 		  <Item>STD_POLICE_REAR_RIGHT</Item>
       </firstPersonDrivebyData>
       </Item>
-    <Item> <!-- Ford Taurus -->
-      <modelName>mpd5</modelName>
-      <txdName>mpd5</txdName>
-      <handlingId>POLICE3</handlingId>
-      <gameName>mpd5</gameName>
+    <Item> <!-- 2018 Ford Taurus -->
+      <modelName>mdp5</modelName>
+      <txdName>mdp5</txdName>
+      <handlingId>mdp5</handlingId>
+      <gameName>mdp5</gameName>
       <vehicleMakeName />
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -515,7 +515,7 @@
       <animConvRoofName>null</animConvRoofName>
       <animConvRoofWindowsAffected />
       <ptfxAssetName>null</ptfxAssetName>
-      <audioNameHash>SCHAFTER3</audioNameHash>
+      <audioNameHash>police3</audioNameHash>
       <layout>LAYOUT_STANDARD</layout>
       <coverBoundOffsets>SHERIFF_COVER_OFFSET_INFO</coverBoundOffsets>
       <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
@@ -526,27 +526,27 @@
       <povCameraName>DEFAULT_POV_CAMERA</povCameraName>
       <FirstPersonDriveByIKOffset x="0.000000" y="-0.060000" z="-0.060000" />
       <FirstPersonDriveByUnarmedIKOffset x="0.000000" y="0.-050000" z="-0.020000" />
-      <FirstPersonProjectileDriveByIKOffset x="0.000000" y="-0.075000" z="-0.045000" />
-      <FirstPersonProjectileDriveByPassengerIKOffset x="0.000000" y="-0.075000" z="-0.045000" />
-      <FirstPersonProjectileDriveByRearLeftIKOffset x="0.000000" y="0.020000" z="0.030000" />
-      <FirstPersonProjectileDriveByRearRightIKOffset x="0.000000" y="0.020000" z="0.030000" />
-      <FirstPersonDriveByLeftPassengerIKOffset x="0.000000" y="0.000000" z="0.000000" />
-      <FirstPersonDriveByRightPassengerIKOffset x="0.000000" y="-0.060000" z="-0.060000" />
-      <FirstPersonDriveByRightRearPassengerIKOffset x="0.000000" y="0.000000" z="0.000000" />
-      <FirstPersonDriveByLeftPassengerUnarmedIKOffset x="0.000000" y="0.000000" z="0.000000" />
-      <FirstPersonDriveByRightPassengerUnarmedIKOffset x="0.000000" y="0.000000" z="0.000000" />
-      <FirstPersonMobilePhoneOffset x="0.155000" y="0.270000" z="0.508000" />
+	    <FirstPersonProjectileDriveByIKOffset x="0.000000" y="-0.075000" z="-0.045000" />
+	    <FirstPersonProjectileDriveByPassengerIKOffset x="0.000000" y="-0.075000" z="-0.045000" />
+	    <FirstPersonProjectileDriveByRearLeftIKOffset x="0.000000" y="0.020000" z="0.030000" />
+	    <FirstPersonProjectileDriveByRearRightIKOffset x="0.000000" y="0.020000" z="0.030000" />
+	    <FirstPersonDriveByLeftPassengerIKOffset x="0.000000" y="0.000000" z="0.000000" />
+	    <FirstPersonDriveByRightPassengerIKOffset x="0.000000" y="-0.060000" z="-0.060000" />
+	    <FirstPersonDriveByRightRearPassengerIKOffset x="0.000000" y="0.000000" z="0.000000" />
+	    <FirstPersonDriveByLeftPassengerUnarmedIKOffset x="0.000000" y="0.000000" z="0.000000" />
+	    <FirstPersonDriveByRightPassengerUnarmedIKOffset x="0.000000" y="0.000000" z="0.000000" />
+	    <FirstPersonMobilePhoneOffset x="0.155000" y="0.270000" z="0.508000" />
       <FirstPersonPassengerMobilePhoneOffset x="0.136000" y="0.223000" z="0.405000" />
-      <FirstPersonMobilePhoneSeatIKOffset>
-        <Item>
-            <Offset x="0.136000" y="0.156000" z="0.425000" />
-            <SeatIndex value="2" />
-        </Item>
-        <Item>
-            <Offset x="0.136000" y="0.156000" z="0.425000" />
-            <SeatIndex value="3" />
-        </Item>
-      </FirstPersonMobilePhoneSeatIKOffset> 
+	    <FirstPersonMobilePhoneSeatIKOffset>
+		  <Item>
+			<Offset x="0.136000" y="0.156000" z="0.425000" />
+			<SeatIndex value="2" />
+		  </Item>
+		  <Item>
+			<Offset x="0.136000" y="0.156000" z="0.425000" />
+			<SeatIndex value="3" />
+		  </Item>
+	    </FirstPersonMobilePhoneSeatIKOffset> 
       <PovCameraOffset x="0.000000" y="-0.145000" z="0.645000" />
       <PovCameraVerticalAdjustmentForRollCage value="0.000000" />
       <PovPassengerCameraOffset x="0.000000" y="0.000000" z="0.000000" />
@@ -562,11 +562,11 @@
       <wheelScale value="0.237100" />
       <wheelScaleRear value="0.237100" />
       <dirtLevelMin value="0.000000" />
-      <dirtLevelMax value="0.000000" />
+      <dirtLevelMax value="0.850000" />
       <envEffScaleMin value="0.000000" />
-      <envEffScaleMax value="0.000000" />
+      <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
-      <envEffScaleMax2 value="0.000000" />
+      <envEffScaleMax2 value="1.000000" />
       <damageMapScale value="0.600000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0x00FFFFFF" />
@@ -591,22 +591,35 @@
       <frequency value="100" />
       <swankness>SWANKNESS_1</swankness>
       <maxNum value="2" />
-      <flags>FLAG_HAS_LIVERY FLAG_EXTRAS_REQUIRE FLAG_EXTRAS_STRONG FLAG_LAW_ENFORCEMENT FLAG_EMERGENCY_SERVICE FLAG_NO_RESPRAY FLAG_DONT_SPAWN_IN_CARGEN FLAG_REPORT_CRIME_IF_STANDING_ON FLAG_EXTRAS_ALL</flags>
+      <flags>FLAG_HAS_LIVERY FLAG_EXTRAS_REQUIRE FLAG_EXTRAS_STRONG FLAG_LAW_ENFORCEMENT FLAG_EMERGENCY_SERVICE FLAG_NO_RESPRAY FLAG_DONT_SPAWN_IN_CARGEN FLAG_REPORT_CRIME_IF_STANDING_ON FLAG_HAS_INTERIOR_EXTRAS FLAG_ATTACH_TRAILER_ON_HIGHWAY FLAG_ATTACH_TRAILER_IN_CITY  </flags>
       <type>VEHICLE_TYPE_CAR</type>
       <plateType>VPT_FRONT_AND_BACK_PLATES</plateType>
-      <dashboardType>VDT_GENTAXI</dashboardType>
+	    <dashboardType>VDT_GENTAXI</dashboardType>
       <vehicleClass>VC_EMERGENCY</vehicleClass>
       <wheelType>VWT_MUSCLE</wheelType>
-      <trailers />
+      <trailers>
+        <Item>boattrailer</Item>
+        <Item>trailersmall</Item>
+        <Item>trailersmall2</Item>
+      </trailers>
       <additionalTrailers />
-      <drivers />
+      <drivers>
+        <Item>
+          <driverName>S_M_Y_Sheriff_01</driverName>
+          <npcName />
+        </Item>
+      </drivers>
       <extraIncludes />
       <doorsWithCollisionWhenClosed />
       <driveableDoors />
       <bumpersNeedToCollideWithMap value="false" />
       <needsRopeTexture value="false" />
       <requiredExtras />
-      <rewards />
+      <rewards>
+        <Item>REWARD_WEAPON_PUMPSHOTGUN</Item>
+        <Item>REWARD_AMMO_PUMPSHOTGUN_ENTER_VEHICLE</Item>
+        <Item>REWARD_STAT_WEAPON</Item>
+      </rewards>
       <cinematicPartCamera>
         <Item>WHEEL_FRONT_RIGHT_CAMERA</Item>
         <Item>WHEEL_FRONT_LEFT_CAMERA</Item>
@@ -617,11 +630,11 @@
       <buoyancySphereOffset x="0.000000" y="0.000000" z="0.000000" />
       <buoyancySphereSizeScale value="1.000000" />
       <pOverrideRagdollThreshold type="NULL" />
-      <firstPersonDrivebyData>
+	    <firstPersonDrivebyData>
         <Item>STD_POLICE_FRONT_LEFT</Item>
         <Item>STD_POLICE_FRONT_RIGHT</Item>
-        <Item>STD_POLICE_REAR_LEFT</Item>
-        <Item>STD_POLICE_REAR_RIGHT</Item>
+		  <Item>STD_POLICE_REAR_LEFT</Item>
+		  <Item>STD_POLICE_REAR_RIGHT</Item>
       </firstPersonDrivebyData>
       </Item>
     <Item> <!-- Chevrolet Caprice -->
@@ -873,7 +886,7 @@
         <Item>STD_POLICE2_REAR_RIGHT</Item>
       </firstPersonDrivebyData>
       </Item>
-    <Item> <!-- Ford Mustang 2019 -->
+    <Item> <!-- 2019 Ford Mustang -->
       <modelName>mpd8</modelName>
       <txdName>mpd8</txdName>
       <handlingId>mpd8</handlingId>
@@ -1124,7 +1137,7 @@
 		  <Item>STD_POLICE_REAR_RIGHT</Item>
       </firstPersonDrivebyData>
       </Item>
-    <Item> <!-- Ford Explorer 2013 -->
+    <Item> <!-- 2013 Ford Explorer -->
       <modelName>mpd10</modelName>
       <txdName>mpd10</txdName>
       <handlingId>BALLER6</handlingId>
@@ -1248,7 +1261,7 @@
         <Item>STD_POLICE_REAR_RIGHT</Item>
       </firstPersonDrivebyData>
       </Item>
-    <Item> <!-- Ford Explorer 2016 -->
+    <Item> <!-- 2016 Ford Explorer -->
       <modelName>mpd11</modelName>
       <txdName>mpd11</txdName>
       <handlingId>BALLER6</handlingId>
@@ -1372,7 +1385,7 @@
         <Item>STD_POLICE_REAR_RIGHT</Item>
       </firstPersonDrivebyData>
       </Item>
-    <Item> <!-- Chevrolet Tahoe 2013 -->
+    <Item> <!-- 2013 Chevrolet Tahoe -->
       <modelName>mpd12</modelName>
       <txdName>mpd12</txdName>
       <handlingId>SADLER</handlingId>
@@ -2228,7 +2241,7 @@
         <Item>TRUCK_PACKER_FRONT_RIGHT</Item>
       </firstPersonDrivebyData>
       </Item>
-    <Item> <!-- BMW R 1200RT 2014 -->
+    <Item> <!-- 2014 BMW R 1200RT -->
       <modelName>mpd19</modelName> 
       <txdName>mpd19</txdName>
       <handlingId>policeb</handlingId>
