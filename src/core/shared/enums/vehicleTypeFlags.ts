@@ -23,6 +23,7 @@ export const enum VEHICLE_CLASS {
     TRAIN = 'train',
     UTILITY = 'utility',
     VAN = 'van',
+    ZIVIL = 'zivil'
 }
 
 export const enum VEHICLE_TYPE {
