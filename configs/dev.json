@@ -33,7 +33,9 @@
         "mfrpack",
         "mpdpack",
         "unmpack",
+        "civpack",
         "webviews",
+        "civpack",
         "core"
     ],
     "tags": [
